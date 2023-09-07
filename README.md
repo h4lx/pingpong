@@ -1,7 +1,7 @@
 play with ping pong on a office computer!
-install: pip intall pygame 
+install:
 git clone https://github.com/h4lx/pingpong
-cd pingpong
-python pong.py
+double click on file "pong.py"
+play game!
 
 
